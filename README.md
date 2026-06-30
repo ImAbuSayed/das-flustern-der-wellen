@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/das-flustern-der-wellen/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Das Flüstern der Wellen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/das-flustern-der-wellen/) |
+| **Get License** | [License this song: Das Flüstern der Wellen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/das-flustern-der-wellen/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, steig in den Benz, lass uns heute entflieh'n
+> Das Flüstern der Wellen, wenn wir an allen vorbeizieh'n
+> Rote Ampeln egal, heute lass' ich dich nicht los
+> Dein Blick so gefährlich, die Spannung ist riesengroß
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
