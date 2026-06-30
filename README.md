@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/das-flustern-der-wellen/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Das Flüstern der Wellen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/das-flustern-der-wellen/) |
+| **Get License** | [Official Music Licensing for Das Flüstern der Wellen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/das-flustern-der-wellen/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `1f4814c3b042c155e95ab4e66bbe0361945237b1aebb76e62d42a27029e64f33` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
